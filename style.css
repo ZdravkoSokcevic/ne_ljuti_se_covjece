@@ -1,0 +1,27 @@
+td {
+    border: none;
+}
+
+.fields {
+    width: 30px;
+    height: 30px;
+    border: 1pt;
+    background-color: #97e5c6;
+    border-radius: 50%;
+}
+
+.reds {
+    background-color: #df1818;
+}
+
+.greens {
+    background-color: #22df18;
+}
+
+.blues {
+    background-color: #122ddb;
+}
+
+.yellows {
+    background-color: #dfd218;
+}
